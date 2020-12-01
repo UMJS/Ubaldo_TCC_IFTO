@@ -68,7 +68,7 @@ $this->view('home/menu');
         <div class="container" data-aos="fade-up">
 
             <div class="section-title">
-                <h2>A Soluão esta aqui</h2>
+                <h2>A Solução esta aqui</h2>
             </div>
 
             <div class="row content">
